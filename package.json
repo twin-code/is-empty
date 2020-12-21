@@ -1,0 +1,27 @@
+{
+  "name": "@twincode/is-empty",
+  "version": "1.0.0",
+  "description": "Validate value is empty",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twin-code/is-empty.git"
+  },
+  "keywords": [
+    "isempty",
+    "is-empty",
+    "isEmpty",
+    "has-value",
+    "hasValue",
+    "empty-checker"
+  ],
+  "author": "Lakshitha Elapatha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/twin-code/is-empty/issues"
+  },
+  "homepage": "https://github.com/twin-code/is-empty#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
